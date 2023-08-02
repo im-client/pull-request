@@ -1,3 +1,8 @@
+This action is duplicated in our im-open org.
+
+- https://github.com/im-open/create-pull-request
+- https://github.com/im-open/create-pr-and-merge-action
+
 # GitHub Pull Request
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
