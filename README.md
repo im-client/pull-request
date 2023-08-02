@@ -3,6 +3,8 @@
 - https://github.com/im-open/create-pull-request
 - https://github.com/im-open/create-pr-and-merge-action
 
+> Suggested to use these actions above instead of this repo.
+
 # GitHub Pull Request
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
