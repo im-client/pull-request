@@ -1,4 +1,4 @@
-This action is duplicated in our im-open org.
+# This action is duplicated in our im-open org.
 
 - https://github.com/im-open/create-pull-request
 - https://github.com/im-open/create-pr-and-merge-action
